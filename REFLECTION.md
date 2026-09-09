@@ -48,4 +48,4 @@ Svar: Jag samarbetade lite med Claude. Jag ville verkligen undvika att låta AI 
 
 *Bifoga (eller länka till) samma skärmdump/video som du postat i Zulip.*
 
-Svar:
+Svar: https://github.com/ThePhoenix56/1DV610_L1/blob/main/img/Demo.png
