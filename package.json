@@ -1,0 +1,13 @@
+{
+  "name": "laboration-1",
+  "version": "1.0.0",
+  "description": "Simpelt program skrivet i JS (Node) som efterfrågar en användares namn för att sedan kolla vilken tid på dygnet det är och sist returnera ett meddelande beroende på tiden på dygnet.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
