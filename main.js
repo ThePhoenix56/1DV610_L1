@@ -6,7 +6,6 @@ const currentTime = new Date();
 rl.question('What is your name? ', (answer) => {
 
     console.log(`Hello ${answer}!`)
-    // console.log(currentTime.getHours());
     if (currentTime.getHours() >= 5 && currentTime.getHours() <= 11) {
         console.log(`Good morning ${answer}!`)
     }
